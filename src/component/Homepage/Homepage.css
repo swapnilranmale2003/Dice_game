@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+    height: 100vh;
+    align-items: center;
+    /* justify-content: center; */
+}
+.dice-content h1{
+    font-size: 96px;
+    width: 628px;
+    height: 188px;
+}
+.dice-content button{
+    background-color: black;
+  
+}
+.link{
+    text-decoration: none;
+   
+    color: #ffffff;
+    
+}
+
+button{
+    width: 220px;
+    height:44px;
+    border-radius: 5px;
+    float: right;
+}
